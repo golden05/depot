@@ -7,7 +7,7 @@ one:
   price: 50
 
 ruby:
-  title: Programming Ruby  
+  title: Programming Ruby 1.9  
   description: Ruby is the fast
   image_url: MyString
   price: 49.5
