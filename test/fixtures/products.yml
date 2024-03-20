@@ -1,0 +1,14 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: peo
+  description: eee
+  image_url: ee 
+  price: 50
+
+ruby:
+  title: Programming Ruby  
+  description: Ruby is the fast
+  image_url: MyString
+  price: 49.5
+
